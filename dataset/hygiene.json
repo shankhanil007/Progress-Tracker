@@ -1,0 +1,18 @@
+{
+    "attempted": 13,
+  
+    "relation": {
+      "SanitaryNapkin": {
+        "correct": 10,
+        "incorrect": 3
+      },
+      "Hay": {
+        "correct": 10,
+        "incorrect": 3
+      },
+      "Cloth": {
+        "correct": 10,
+        "incorrect": 3
+      }
+    }
+  }

@@ -1,0 +1,1940 @@
+{
+  "students": [
+    {
+      "id": "U19EC017",
+      "name": "Emma Smith",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 60 },
+        { "Module 4": 70 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 1, 2, 1]
+        },
+        "quiz2": {
+          "score": [3, 4, 5, 2, 1, 3]
+        },
+        "quiz3": {
+          "score": []
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 5,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 30,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 28,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 25,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 25,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 25,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 12,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 25,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 12,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC018",
+      "name": "Olivia ",
+      "region": "Hyderabad",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 10 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [3, 4, 5, 2, 1]
+        },
+        "quiz2": {
+          "score": [4,4,4, 5]
+        },
+        "quiz3": {
+          "score": [3, 4, 5]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 6,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 32,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 2,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 4,
+              "currentStars": 19,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 25,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Uterus"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 41,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 21,
+            "numberOfRolls": 10,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 5,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 26,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 19,
+            "numberOfRolls": 12,
+            "stairsClimbed": 2,
+            "slidesTaken": 1,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC020",
+      "name": "Sophia Princeton",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 100 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 3, 2, 4]
+        },
+        "quiz2": {
+          "score": [4, 4, 2, 1, 3]
+        },
+        "quiz3": {
+          "score": [1,2,3,5,5]
+        },
+        "quiz4": {
+          "score": [4,3,5]
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 5,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 36,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 3,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 29,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 45,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix","Uterus"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 31,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 45,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC022",
+      "name": "Harry Rowe",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 20 },
+        { "Module 3": 0 },
+        { "Module 4": 0 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [2,1]
+        },
+        "quiz2": {
+          "score": []
+        },
+        "quiz3": {
+          "score": []
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 5,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 7,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 4,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 18,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 2,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 2,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 15,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 31,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 4,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 10,
+            "numberOfRolls": 14,
+            "stairsClimbed": 2,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 2,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 16,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC024",
+      "name": "Nico Walker",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 50 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 3, 5, 4]
+        },
+        "quiz2": {
+          "score": [4, 5, 2, 5, 3]
+        },
+        "quiz3": {
+          "score": [5,4]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 50,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 4,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 18,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 3,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 45,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix","Uterus","Vagina","Ovarian Ligament"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 40,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 18,
+            "numberOfRolls": 10,
+            "stairsClimbed": 3,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 47,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC026",
+      "name": "Mary Son",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 100 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 3, 5, 4]
+        },
+        "quiz2": {
+          "score": [4, 5, 2, 5, 3]
+        },
+        "quiz3": {
+          "score": [5,4]
+        },
+        "quiz4": {
+          "score": [3,4,5]
+        }
+      },
+
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 52,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 5,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 5,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 18,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 3,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 38,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 2,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 40,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 39,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 16,
+            "numberOfRolls": 11,
+            "stairsClimbed": 3,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 47,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 19,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC030",
+      "name": "Antonie Nico",
+      "region": "Mumbai",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 50 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 2, 5, 6]
+        },
+        "quiz2": {
+          "score": [2, 4, 5, 5, 3]
+        },
+        "quiz3": {
+          "score": [2,5,4]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 40,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 4,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 18,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 3,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 5,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 45,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix","Uterus","Vagina","Ovarian Ligament"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 30,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 21,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 18,
+            "numberOfRolls": 10,
+            "stairsClimbed": 3,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 27,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC045",
+      "name": "Alice Baker",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 10 },
+        { "How to be a clean bean": 25 },
+        { "Module 3": 100 },
+        { "Module 4": 50 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": []
+        },
+        "quiz2": {
+          "score": []
+        },
+        "quiz3": {
+          "score": [2,3,3,4]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 2,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 4,
+              "currentStars": 33,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 5,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 0,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 2,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 5,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 1,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 2,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 7,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 3,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 10,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 6,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 12,
+            "numberOfRolls": 7,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 1,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 40,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 11,
+            "stairsClimbed": 0,
+            "slidesTaken": 1,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC047",
+      "name": "Rahi Katkar",
+      "region": "Bangalore",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 25 },
+        { "Module 3": 100 },
+        { "Module 4": 35 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [3,5]
+        },
+        "quiz2": {
+          "score": []
+        },
+        "quiz3": {
+          "score": [2,4]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 1,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 0,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 14,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 6,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 6,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 0,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 6,
+              "currentStars": 14,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 5,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 0,
+              "currentStars": 7,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Ovarian Ligament"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 2,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 10,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Fallopian Tube","Uterus","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 5,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 15,
+            "numberOfRolls": 8,
+            "stairsClimbed": 1,
+            "slidesTaken": 2,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 23,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 16,
+            "numberOfRolls": 7,
+            "stairsClimbed": 3,
+            "slidesTaken": 1,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "U19EC034",
+      "name": "Wilson V",
+      "region": "Delhi",
+      "lessons": [
+        { "All things scientific": 100 },
+        { "How to be a clean bean": 100 },
+        { "Module 3": 100 },
+        { "Module 4": 40 }
+      ],
+      "quizzes": {
+        "quiz1": {
+          "score": [5, 2, 5, 6]
+        },
+        "quiz2": {
+          "score": [2, 4, 4, 5, 3, 5]
+        },
+        "quiz3": {
+          "score": [2,3,4]
+        },
+        "quiz4": {
+          "score": []
+        }
+      },
+      "games": {
+        "hygeinerun": [
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 5,
+              "currentStars": 31,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T02:02:06.717Z"
+            },
+            "numberOfJumpsMade": 4,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 3,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 1,
+              "starsEarnedLastAttempt": 2,
+              "currentStars": 20,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "timeBetweenLastRun": "2021-05-14T01:52:06.717Z",
+            "timeOfThisRun": {
+              "from": "2021-05-14T01:52:06.717Z",
+              "to": "2021-05-14T01:52:06.717Z"
+            },
+            "numberOfJumpsMade": 4,
+            "numberOfTimesPreviouslyPlayedGame": "",
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "reproductivepuzzle": [
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 5,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 40,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Cervix","Uterus","Vagina","Ovarian Ligament"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 4,
+              "wrong": 4,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 3,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 30,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "words": [
+              "Fallopian Tube",
+              "Ovary",
+              "Uterus",
+              "Vagina",
+              "Cervix",
+              "Ovarian Ligament"
+            ],
+            "usedWords": ["Ovary", "Fallopian Tube","Vagina"],
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ],
+        "stairsandslide": [
+          {
+            "attempts": {
+              "correct": 2,
+              "wrong": 1,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 3,
+              "currentStars": 30,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 18,
+            "numberOfRolls": 9,
+            "stairsClimbed": 3,
+            "slidesTaken": 1,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          },
+          {
+            "attempts": {
+              "correct": 3,
+              "wrong": 2,
+              "totalCorrectTime": 5.078,
+              "totalWrongTime": 9.486,
+              "fullRestarts": 1,
+              "allCorrectAttempt": 0
+            },
+            "studentStats": {
+              "starsEarnedFromThisGame": 4,
+              "starsEarnedLastAttempt": 1,
+              "currentStars": 31,
+              "lastAttemptedGame": "mumblejumble",
+              "lastAttemptedCurrentGameAt": "2021-05-14T01:52:06.717Z",
+              "allGamesAttempted": false
+            },
+            "awayFromFinish": 20,
+            "numberOfRolls": 10,
+            "stairsClimbed": 1,
+            "slidesTaken": 3,
+            "startingTime": "2021-05-18T07:54:06.747Z",
+            "lastAttemptTime": "2021-05-18T07:54:19.569Z"
+          }
+        ]
+      }
+    }
+  ]
+}

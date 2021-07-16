@@ -1,0 +1,37 @@
+{
+  "attempted": 13,
+  "hints": {
+    "Fallopian Tube": 5,
+    "Ovary": 1,
+    "Uterus": 2,
+    "Vagina": 3,
+    "Cervix": 4,
+    "Ovarian Ligament": 0
+  },
+  "relation": {
+    "FallopianTube": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Ovary": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Uterus": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Vagina": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Cervix": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "OvarianLigament": {
+      "correct": 10,
+      "incorrect": 3
+    }
+  }
+}

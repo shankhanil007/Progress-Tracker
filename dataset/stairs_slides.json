@@ -1,0 +1,27 @@
+{
+  "attempted": 13,
+  "averagetime": 2,
+  "averageTimeTaken": 3.5,
+  "questions": {
+    "It is okay to not change your pad for more than 12 hours": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Not urinating for long hours while on your period is bad for you": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Not taking a bath during your period is a good practice": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Drinking water and exercising frequently relieves period related discomfort": {
+      "correct": 10,
+      "incorrect": 3
+    },
+    "Taking a shower everyday during your periods is a good habit": {
+      "correct": 10,
+      "incorrect": 3
+    }
+  }
+}
