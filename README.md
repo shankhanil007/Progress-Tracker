@@ -7,3 +7,29 @@ The SGO Collective Consciousness needs a tool that will allow easy visualization
 ## Our Solution
 We have created a solution for the benefit of Devi initiative facilitators. It contains dashboards to visualize the progress of each student. We also provide metrics to measure aggregate student performance, which can be used to identify common areas of difficulty/weakness. 
 The facilitators can also see the common topics or questions in which majority of the students are facing diffculty in. These insights will help the organization modify their course content accordingly.
+
+
+## Tech/framework used
+The following tools were used in building this site
+* Front-end development
+  * React.js
+  * BootStrap 
+  
+* Back-end development
+  * Node.js
+  * Express
+  * Django
+  
+* Database used
+  * Mongodb
+
+* Graphical tools
+  * Chart.js
+    
+* NLP library
+   * stopwords
+   
+* Authorisation/Authentication
+  * JWT
+  
+
