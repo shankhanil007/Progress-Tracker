@@ -1,6 +1,6 @@
-# Progress-Tracker
+# Progress Tracker
 
-## The Issue
+## The Challenge
 The SGO Collective Consciousness needs a tool that will allow easy visualization of their students' progress. The tool will help in quantitative analysis of their curriculum for each student. Insights gained from the data will allow the organization to modify their curriculum and activities, based on the students' engagement and performance.
 
 
